@@ -1,5 +1,5 @@
-let greetings: string = "Hello World";
-let num: number = 3396;
+let greetings = "Hello World";
+let num = 3396;
 // num=45  not good practice
 // greetings = 5; error
 greetings.toLocaleLowerCase();
